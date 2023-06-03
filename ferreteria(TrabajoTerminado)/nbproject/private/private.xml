@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Modelo/Det_Compra.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Dao/VentaDao.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Vista/panelReportes.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Vista/panelCompras.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Controller/AlmacenController.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Vista/panelArticulos.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/util/ExcelUtil.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/util/FacturacionPDF.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Dao/Impl/VentaDaoImpl.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Dao/Impl/CompraDaoImpl.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Vista/panelUsuarios.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Vista/panelVentas.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Vista/panelAlmacen.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Dao/Impl/ArticuloDaoImpl.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Dao/CompraDao.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Controller/ArticulosController.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Controller/EscritorioController.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Controller/ProveedoresController.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Controller/ReportesController.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Controller/FacturacionController.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Controller/CompraController.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Vista/panelFacturacion.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Vista/panelProveedores.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Controller/CatMarController.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Controller/VentaController.java</file>
+            <file>file:/C:/Users/enriq/Desktop/ferreteria(TrabajoTerminado)/src/Dao/ArticuloDao.java</file>
+        </group>
+    </open-files>
+</project-private>
